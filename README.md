@@ -1,6 +1,6 @@
 ![logo](https://github.com/Prince72342/Prince72342/blob/main/prince.png)
 <h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Student pursuing Engineering from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.9d643f53934a11f35e1824df87fdbe33?pid=1.7&rurl=https%3a%2f%2fraw.githubusercontent.com%2fkvssankar%2fkvssankar%2fmain%2fprogrammer.gif&ehk=SPG39ITIsttewfu0e1QAcyrsJhrxseVTUl077r%2f6nv4%3d">
 
